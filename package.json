@@ -10,20 +10,17 @@
   "permissions": {
     "private-browsing": true
   },
-  "preferences": [
-      {
-        "name": "apiToken",
-        "title": "API Token",
-        "description": "Your very secret API Token get it from the homepage above ↑",
-        "type": "string",
-        "value": ""
-      },
-      {
-        "name": "teamPref",
-        "title": "Team name",
-        "description": "Team name to publish to",
-        "type": "string",
-        "value": ""
-      }
-    ]
+  "preferences": [{
+    "name": "apiToken",
+    "title": "API Token",
+    "description": "Your very secret API Token get it from the homepage above ↑",
+    "type": "string",
+    "value": ""
+  }, {
+    "name": "teamPref",
+    "title": "Team name",
+    "description": "Team name to publish to",
+    "type": "string",
+    "value": ""
+  }]
 }
